@@ -1,0 +1,41 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.smartpantry"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="28" />
+10
+11    <application
+11-->C:\Users\BhenguX\Downloads\Smart_Pantry_Manager_Submission_STARTER\SmartPantryManager\app\src\main\AndroidManifest.xml:2:5-9:19
+12        android:allowBackup="true"
+12-->C:\Users\BhenguX\Downloads\Smart_Pantry_Manager_Submission_STARTER\SmartPantryManager\app\src\main\AndroidManifest.xml:2:87-113
+13        android:debuggable="true"
+14        android:extractNativeLibs="false"
+15        android:label="Smart Pantry Manager"
+15-->C:\Users\BhenguX\Downloads\Smart_Pantry_Manager_Submission_STARTER\SmartPantryManager\app\src\main\AndroidManifest.xml:2:50-86
+16        android:testOnly="true"
+17        android:theme="@style/AppTheme" >
+17-->C:\Users\BhenguX\Downloads\Smart_Pantry_Manager_Submission_STARTER\SmartPantryManager\app\src\main\AndroidManifest.xml:2:18-49
+18        <activity
+18-->C:\Users\BhenguX\Downloads\Smart_Pantry_Manager_Submission_STARTER\SmartPantryManager\app\src\main\AndroidManifest.xml:3:9-8:20
+19            android:name="com.example.smartpantry.MainActivity"
+19-->C:\Users\BhenguX\Downloads\Smart_Pantry_Manager_Submission_STARTER\SmartPantryManager\app\src\main\AndroidManifest.xml:3:19-47
+20            android:exported="true" >
+20-->C:\Users\BhenguX\Downloads\Smart_Pantry_Manager_Submission_STARTER\SmartPantryManager\app\src\main\AndroidManifest.xml:3:48-71
+21            <intent-filter>
+21-->C:\Users\BhenguX\Downloads\Smart_Pantry_Manager_Submission_STARTER\SmartPantryManager\app\src\main\AndroidManifest.xml:4:13-7:29
+22                <action android:name="android.intent.action.MAIN" />
+22-->C:\Users\BhenguX\Downloads\Smart_Pantry_Manager_Submission_STARTER\SmartPantryManager\app\src\main\AndroidManifest.xml:5:17-68
+22-->C:\Users\BhenguX\Downloads\Smart_Pantry_Manager_Submission_STARTER\SmartPantryManager\app\src\main\AndroidManifest.xml:5:25-66
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->C:\Users\BhenguX\Downloads\Smart_Pantry_Manager_Submission_STARTER\SmartPantryManager\app\src\main\AndroidManifest.xml:6:17-76
+24-->C:\Users\BhenguX\Downloads\Smart_Pantry_Manager_Submission_STARTER\SmartPantryManager\app\src\main\AndroidManifest.xml:6:27-74
+25            </intent-filter>
+26        </activity>
+27    </application>
+28
+29</manifest>
